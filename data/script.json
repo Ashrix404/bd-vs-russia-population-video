@@ -1,0 +1,295 @@
+{
+  "title": "Bangladesh vs. Russia: Population Comparison by Size",
+  "targetDurationSec": 124,
+  "scenes": [
+    {
+      "sceneIndex": 1,
+      "sceneId": "scene_01",
+      "title": "THE SCALE PARADOX",
+      "subtitle": "17.1M km² vs 148,460 km²",
+      "turns": [
+        {
+          "id": "turn_01",
+          "sceneIndex": 1,
+          "characterId": "noah",
+          "text": "Look at Russia from orbit: 17.1 million square kilometers spanning eleven time zones.",
+          "emotion": "curious",
+          "gesture": "open_palms",
+          "highlightStat": "17,098,246 km² · 11 Time Zones"
+        },
+        {
+          "id": "turn_02",
+          "sceneIndex": 1,
+          "characterId": "dmitri",
+          "text": "One country covering eleven percent of Earth's landmass, practically its own continent.",
+          "emotion": "proud",
+          "gesture": "point_up",
+          "highlightStat": "11% of Earth's Landmass"
+        },
+        {
+          "id": "turn_03",
+          "sceneIndex": 1,
+          "characterId": "rafiq",
+          "text": "Yet Bangladesh, 115 times smaller, holds 175 million people, 31 million more than Russia's 144 million.",
+          "emotion": "shocked",
+          "gesture": "count_fingers",
+          "highlightStat": "175M vs 144M (+31M)"
+        }
+      ]
+    },
+    {
+      "sceneIndex": 2,
+      "sceneId": "scene_02",
+      "title": "TRUE SIZE OVERLAY",
+      "subtitle": "115.2× Land Area Multiplier",
+      "turns": [
+        {
+          "id": "turn_04",
+          "sceneIndex": 2,
+          "characterId": "maya",
+          "text": "On an equal-area map, 115 copies of Bangladesh tile inside Russia's borders.",
+          "emotion": "analytical",
+          "gesture": "open_palms",
+          "highlightStat": "115.2× Land Area Fit"
+        },
+        {
+          "id": "turn_05",
+          "sceneIndex": 2,
+          "characterId": "dmitri",
+          "text": "Flying Kaliningrad to Vladivostok takes eleven hours across nine thousand kilometers, versus six hundred across Bangladesh.",
+          "emotion": "analytical",
+          "gesture": "count_fingers",
+          "highlightStat": "9,000 km (11h) vs 600 km"
+        },
+        {
+          "id": "turn_06",
+          "sceneIndex": 2,
+          "characterId": "noah",
+          "text": "Rarely do territory and humanity diverge this dramatically.",
+          "emotion": "shocked",
+          "gesture": "chin_think",
+          "highlightStat": "Territory vs. Humanity"
+        }
+      ]
+    },
+    {
+      "sceneIndex": 3,
+      "sceneId": "scene_03",
+      "title": "YAKUTIA VS BANGLADESH",
+      "subtitle": "One Frozen Republic vs A Nation of 175M",
+      "turns": [
+        {
+          "id": "turn_07",
+          "sceneIndex": 3,
+          "characterId": "dmitri",
+          "text": "Sakha, or Yakutia, spans 3.08 million square kilometers, 20.8 times Bangladesh, hitting minus fifty degrees Celsius with one million residents.",
+          "emotion": "curious",
+          "gesture": "point_up",
+          "highlightStat": "Sakha: 3.08M km² · -50°C · 1M"
+        },
+        {
+          "id": "turn_08",
+          "sceneIndex": 3,
+          "characterId": "rafiq",
+          "text": "Meanwhile, Bangladesh's warm monsoon plains at twenty-eight degrees Celsius sustain 175 million.",
+          "emotion": "warm",
+          "gesture": "open_palms",
+          "highlightStat": "+28°C Monsoon Plains · 175M"
+        },
+        {
+          "id": "turn_09",
+          "sceneIndex": 3,
+          "characterId": "maya",
+          "text": "Greater Dhaka's 24 million nearly rivals all 36 million across Siberia's 13.1 million square kilometers.",
+          "emotion": "shocked",
+          "gesture": "count_fingers",
+          "highlightStat": "Dhaka 24M vs Siberia 36M"
+        }
+      ]
+    },
+    {
+      "sceneIndex": 4,
+      "sceneId": "scene_04",
+      "title": "INSIDE ONE SQUARE KILOMETER",
+      "subtitle": "8.4 vs 1,330 People per km²",
+      "turns": [
+        {
+          "id": "turn_10",
+          "sceneIndex": 4,
+          "characterId": "maya",
+          "text": "Simulate one square kilometer: Russia averages just 8.4 people inside that space.",
+          "emotion": "analytical",
+          "gesture": "point_up",
+          "highlightStat": "Russia: 8.4 People / km²"
+        },
+        {
+          "id": "turn_11",
+          "sceneIndex": 4,
+          "characterId": "noah",
+          "text": "Bangladesh's square of land fills with over 1,330 people, 158 times denser.",
+          "emotion": "shocked",
+          "gesture": "open_palms",
+          "highlightStat": "Bangladesh: 1,330 / km² (158×)"
+        },
+        {
+          "id": "turn_12",
+          "sceneIndex": 4,
+          "characterId": "rafiq",
+          "text": "Every block hums with river ferries, rooftop gardens, and bustling delta towns.",
+          "emotion": "warm",
+          "gesture": "open_palms",
+          "highlightStat": "Ferries · Rooftops · Delta Towns"
+        }
+      ]
+    },
+    {
+      "sceneIndex": 5,
+      "sceneId": "scene_05",
+      "title": "THE HIMALAYAN DELTA ENGINE",
+      "subtitle": "Padma · Jamuna · Meghna Fertility",
+      "turns": [
+        {
+          "id": "turn_13",
+          "sceneIndex": 5,
+          "characterId": "rafiq",
+          "text": "The Padma, Jamuna, and Meghna deposit a billion tons of Himalayan silt yearly and power three rice harvests.",
+          "emotion": "proud",
+          "gesture": "count_fingers",
+          "highlightStat": "1B Tons Silt · 3 Rice Harvests"
+        },
+        {
+          "id": "turn_14",
+          "sceneIndex": 5,
+          "characterId": "noah",
+          "text": "Snowmelt and fertile silt turned a compact delta into a civilization engine.",
+          "emotion": "curious",
+          "gesture": "chin_think",
+          "highlightStat": "World's Largest River Delta"
+        },
+        {
+          "id": "turn_15",
+          "sceneIndex": 5,
+          "characterId": "maya",
+          "text": "From 40 million in 1950, Bangladesh grew to 175 million while rapidly urbanizing.",
+          "emotion": "analytical",
+          "gesture": "point_up",
+          "highlightStat": "40M (1950) → 175M Today"
+        }
+      ]
+    },
+    {
+      "sceneIndex": 6,
+      "sceneId": "scene_06",
+      "title": "THE URAL & PERMAFROST DIVIDE",
+      "subtitle": "65% Frozen Ground · 75% European Core",
+      "turns": [
+        {
+          "id": "turn_16",
+          "sceneIndex": 6,
+          "characterId": "dmitri",
+          "text": "Sixty-five percent of Russian territory sits on Siberian permafrost, too harsh for dense farming.",
+          "emotion": "analytical",
+          "gesture": "open_palms",
+          "highlightStat": "65% Siberian Permafrost"
+        },
+        {
+          "id": "turn_17",
+          "sceneIndex": 6,
+          "characterId": "maya",
+          "text": "West of the Urals, European Russia's 23 percent of land holds over 75 percent of all 144 million citizens.",
+          "emotion": "analytical",
+          "gesture": "point_up",
+          "highlightStat": "23% Land · 75%+ Citizens"
+        },
+        {
+          "id": "turn_18",
+          "sceneIndex": 6,
+          "characterId": "noah",
+          "text": "Fertility concentrates life, while permafrost scatters it.",
+          "emotion": "neutral",
+          "gesture": "chin_think",
+          "highlightStat": "Soil Concentrates · Frost Scatters"
+        }
+      ]
+    },
+    {
+      "sceneIndex": 7,
+      "sceneId": "scene_07",
+      "title": "IF DENSITIES SWAPPED",
+      "subtitle": "20.1B Russia vs 1.25M Bangladesh",
+      "turns": [
+        {
+          "id": "turn_19",
+          "sceneIndex": 7,
+          "characterId": "maya",
+          "text": "At Bangladesh's land density, Russia holds over 20.1 billion people, 2.5 times all humans alive.",
+          "emotion": "shocked",
+          "gesture": "point_up",
+          "highlightStat": "20.1B+ Russia (2.5× Earth)"
+        },
+        {
+          "id": "turn_20",
+          "sceneIndex": 7,
+          "characterId": "dmitri",
+          "text": "Twenty billion neighbors in Siberia? My quiet forest cabin just vanished.",
+          "emotion": "amused",
+          "gesture": "open_palms",
+          "highlightStat": "20B Neighbors in Siberia"
+        },
+        {
+          "id": "turn_21",
+          "sceneIndex": 7,
+          "characterId": "rafiq",
+          "text": "At Russia's density, Bangladesh shrinks to 1.25 million people, smaller than one Dhaka district.",
+          "emotion": "shocked",
+          "gesture": "count_fingers",
+          "highlightStat": "1.25M Bangladesh (<1 Dhaka District)"
+        }
+      ]
+    },
+    {
+      "sceneIndex": 8,
+      "sceneId": "scene_08",
+      "title": "LAND VS. LIFE",
+      "subtitle": "Two Giants of Human Geography",
+      "turns": [
+        {
+          "id": "turn_22",
+          "sceneIndex": 8,
+          "characterId": "noah",
+          "text": "Maps measure kilometers, never human gravity.",
+          "emotion": "warm",
+          "gesture": "open_palms",
+          "highlightStat": "17.1M km² vs 148,460 km²"
+        },
+        {
+          "id": "turn_23",
+          "sceneIndex": 8,
+          "characterId": "rafiq",
+          "text": "Warm monsoons and mighty rivers let one small delta nourish 175 million lives.",
+          "emotion": "proud",
+          "gesture": "point_up",
+          "highlightStat": "175M in the Bengal Delta"
+        },
+        {
+          "id": "turn_24",
+          "sceneIndex": 8,
+          "characterId": "dmitri",
+          "text": "Across frozen expanses, climate gathers a vast nation into its warmest plains.",
+          "emotion": "warm",
+          "gesture": "open_palms",
+          "highlightStat": "144M Across 11 Time Zones"
+        },
+        {
+          "id": "turn_25",
+          "sceneIndex": 8,
+          "characterId": "maya",
+          "text": "Territory draws borders, while rivers, climate, and resilience measure human civilization.",
+          "emotion": "proud",
+          "gesture": "chin_think",
+          "highlightStat": "Rivers · Climate · Resilience"
+        }
+      ]
+    }
+  ]
+}

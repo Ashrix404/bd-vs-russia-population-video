@@ -1,0 +1,36 @@
+# Node & Remotion dependencies
+node_modules/
+.npm/
+
+# Local & CI model/build caches
+.cache/
+
+# Rendered video, audio & still outputs
+out/
+dist/
+build/
+
+# Synthesized voiceover, stems, BGM & caption outputs (generated in CI)
+public/audio/*.wav
+public/audio/lines/
+public/captions/*.srt
+public/captions/*.vtt
+
+# Explicitly track the Remotion timeline manifest in git
+!src/generated/
+!src/generated/timeline-manifest.json
+
+# Python bytecode & virtual environments
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# OS & editor files
+.DS_Store
+Thumbs.db
+*.log
+.env
+.env.*

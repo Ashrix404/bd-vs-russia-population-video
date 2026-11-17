@@ -1,0 +1,108 @@
+{
+  "fps": 30,
+  "width": 1920,
+  "height": 1080,
+  "totalDurationMs": 120000,
+  "totalFrames": 3600,
+  "masterAudioSrc": "audio/master_mix.wav",
+  "voiceoverSrc": "audio/voiceover_master.wav",
+  "bgmSrc": "audio/bgm_bed.wav",
+  "scenes": [
+    {
+      "sceneIndex": 1,
+      "sceneId": "scene_01",
+      "title": "THE SCALE PARADOX",
+      "subtitle": "17.1M km² vs 148,460 km²",
+      "startMs": 0,
+      "endMs": 15000,
+      "startFrame": 0,
+      "durationInFrames": 450,
+      "activeCharacters": ["noah", "dmitri", "rafiq"]
+    },
+    {
+      "sceneIndex": 2,
+      "sceneId": "scene_02",
+      "title": "TRUE SIZE OVERLAY",
+      "subtitle": "115.2× Land Area Multiplier",
+      "startMs": 15000,
+      "endMs": 30000,
+      "startFrame": 450,
+      "durationInFrames": 450,
+      "activeCharacters": ["maya", "dmitri", "noah"]
+    },
+    {
+      "sceneIndex": 3,
+      "sceneId": "scene_03",
+      "title": "YAKUTIA VS BANGLADESH",
+      "subtitle": "One Frozen Republic vs A Nation of 175M",
+      "startMs": 30000,
+      "endMs": 45000,
+      "startFrame": 900,
+      "durationInFrames": 450,
+      "activeCharacters": ["dmitri", "rafiq", "maya"]
+    },
+    {
+      "sceneIndex": 4,
+      "sceneId": "scene_04",
+      "title": "INSIDE ONE SQUARE KILOMETER",
+      "subtitle": "8.4 vs 1,330 People per km²",
+      "startMs": 45000,
+      "endMs": 60000,
+      "startFrame": 1350,
+      "durationInFrames": 450,
+      "activeCharacters": ["maya", "noah", "rafiq"]
+    },
+    {
+      "sceneIndex": 5,
+      "sceneId": "scene_05",
+      "title": "THE HIMALAYAN DELTA ENGINE",
+      "subtitle": "Padma · Jamuna · Meghna Fertility",
+      "startMs": 60000,
+      "endMs": 75000,
+      "startFrame": 1800,
+      "durationInFrames": 450,
+      "activeCharacters": ["rafiq", "noah", "maya"]
+    },
+    {
+      "sceneIndex": 6,
+      "sceneId": "scene_06",
+      "title": "THE URAL & PERMAFROST DIVIDE",
+      "subtitle": "65% Frozen Ground · 75% European Core",
+      "startMs": 75000,
+      "endMs": 90000,
+      "startFrame": 2250,
+      "durationInFrames": 450,
+      "activeCharacters": ["dmitri", "maya", "noah"]
+    },
+    {
+      "sceneIndex": 7,
+      "sceneId": "scene_07",
+      "title": "IF DENSITIES SWAPPED",
+      "subtitle": "A 20.1-Billion Russia vs A 1.25-Million Bangladesh",
+      "startMs": 90000,
+      "endMs": 105000,
+      "startFrame": 2700,
+      "durationInFrames": 450,
+      "activeCharacters": ["maya", "dmitri", "rafiq"]
+    },
+    {
+      "sceneIndex": 8,
+      "sceneId": "scene_08",
+      "title": "LAND VS. LIFE",
+      "subtitle": "Two Giants of Human Geography",
+      "startMs": 105000,
+      "endMs": 120000,
+      "startFrame": 3150,
+      "durationInFrames": 450,
+      "activeCharacters": ["noah", "rafiq", "dmitri", "maya"]
+    }
+  ],
+  "turns": [],
+  "words": [],
+  "visemes": {
+    "noah": [],
+    "rafiq": [],
+    "dmitri": [],
+    "maya": []
+  }
+}
