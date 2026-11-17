@@ -75,10 +75,10 @@ FADE_SAMPLES = int(round((FADE_MS / 1000.0) * TARGET_SR))  # 1920 samples
 PEAK_TARGET_DBFS = -3.0
 PEAK_TARGET_AMP = 10.0 ** (PEAK_TARGET_DBFS / 20.0)
 
-INTRO_PAD_MS = 700
-INTRA_SCENE_GAP_MS = 240
-INTER_SCENE_GAP_MS = 550
-OUTRO_HOLD_MS = 1400
+INTRO_PAD_MS = 500
+INTRA_SCENE_GAP_MS = 180
+INTER_SCENE_GAP_MS = 380
+OUTRO_HOLD_MS = 1100
 
 CHARACTER_ORDER: tuple[str, ...] = ("noah", "rafiq", "dmitri", "maya")
 
@@ -87,28 +87,28 @@ VOICE_CONFIG: dict[str, dict[str, Any]] = {
         "speaker_label": "Noah",
         "kokoro_voice": "am_michael",
         "kokoro_lang": "en-us",
-        "kokoro_speed": 1.02,
+        "kokoro_speed": 1.11,
         "gemini_voice": "Charon",
     },
     "rafiq": {
         "speaker_label": "Rafiq",
         "kokoro_voice": "bm_fable",
         "kokoro_lang": "en-gb",
-        "kokoro_speed": 1.03,
+        "kokoro_speed": 1.12,
         "gemini_voice": "Puck",
     },
     "dmitri": {
         "speaker_label": "Dmitri",
         "kokoro_voice": "am_fenrir",
         "kokoro_lang": "en-us",
-        "kokoro_speed": 0.98,
+        "kokoro_speed": 1.07,
         "gemini_voice": "Orus",
     },
     "maya": {
         "speaker_label": "Maya",
         "kokoro_voice": "af_heart",
         "kokoro_lang": "en-us",
-        "kokoro_speed": 1.03,
+        "kokoro_speed": 1.12,
         "gemini_voice": "Aoede",
     },
 }

@@ -265,6 +265,7 @@ ffmpeg -hide_banner -y \
   -i "$MASTERED_MP4" \
   -vf "select='${SELECT_MIDPOINTS_EXPR}',scale=960:540:flags=lanczos:out_range=full,setsar=1:1,tile=4x2:margin=12:padding=8:color=0x050911,format=yuvj420p" \
   -frames:v 1 \
+  -update 1 \
   "${VSYNC_ARGS[@]}" \
   -strict unofficial \
   -q:v 2 \
@@ -275,6 +276,7 @@ ffmpeg -hide_banner -y \
   -i "$MASTERED_MP4" \
   -vf "select='eq(n,${POSTER_FRAME})',format=rgb24" \
   -frames:v 1 \
+  -update 1 \
   "${VSYNC_ARGS[@]}" \
   "$POSTER_PNG"
 
